@@ -1,6 +1,6 @@
 # currrency-converter
 
-This template should help get you started developing with Vue 3 in Vite.
+[Vercel](https://github.com/alexei-drazdoff/currrency-converter)
 
 ## Recommended IDE Setup
 
